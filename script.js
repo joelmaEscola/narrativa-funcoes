@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "",
+        enunciado: "A comida é a linguagem universal do conforto e da celebração, unindo pessoas de todas as culturas.",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Compartilhar uma refeição é um ato fundamental de conexão humana em diversas sociedades",
+                afirmacao: "Em muitas culturas, oferecer e partilhar alimentos demonstra hospitabilidade, respeito e inteções pacíficas, construindo pontes entre indivíduos e grupos."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Sabores e pratos específicos evocam sentimentos de nostalgia e pertencimento em indivíduos",
+                afirmacao: "consumir pratos tradicionais de uma cultura ou família reforça a identidade e o senso de pertencimento a um grupo, criando um elo com as raízes e a história"
             }
         ]
     },
